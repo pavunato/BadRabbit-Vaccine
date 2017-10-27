@@ -1,4 +1,5 @@
 # BadRabbit-Vaccine
+Windows Powershell vaccine for BadRabbit Ransomeware Edit
 
 Description
 -----------
@@ -9,7 +10,8 @@ For more details on how it works, see
 https://www.cybereason.com/blog/cybereason-researcher-discovers-vaccine-for-badrabbit-ransomware?hs_amp=true
 
 So i wrote this script to do it faster yay.
-Just download and run this script on you Command line [Run as Administrator]
+
+Just download and run this script on your Command line [Run as Administrator] by:
 
 powershell.exe -ExecutionPolicy Bypass -File "path-to-file"
 
